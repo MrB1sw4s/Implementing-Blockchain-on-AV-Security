@@ -27,8 +27,8 @@ This project simulates an autonomous vehicle (AV) that generates random data and
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repository-url.git  ///////
-   cd your-repository-directory
+   git clone https://github.com/MrB1sw4s/Implementing-Blockchain-on-AV-Security.git
+   cd Implementing-Blockchain-on-AV-Security
 
 2. **Install Required Libraries:**
    ```bash
